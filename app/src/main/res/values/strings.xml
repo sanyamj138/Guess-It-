@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guess It!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Back</string>
+    <string name="next">Start</string>
+    <string name="previous">Exit</string>
+    <string name="guess">Guess</string>
+    <string name="textView3">Press start to play</string>
+    <string name="hello_first_fragment">Guess It !</string>
+    <string name="hello_second_fragment">Guess a number between 1 to 100</string>
+</resources>
